@@ -1,2 +1,3 @@
-# tec-FISHTEST
-TEC-1 testing of fishing reel and line
+# tec-FISH
+- testing of fishing reel and line
+- 
