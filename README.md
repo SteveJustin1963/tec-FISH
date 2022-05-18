@@ -4,6 +4,9 @@
 - fish simulator game, like Vintage Radica Bass Fishin' 3732 Handheld Electronic Fishing Game
 - talking fish
 - fishing game
+- fish cam
+- fish radar/sonar
+- 
 
 ## fish rod
 - Power  "power value" or "rod weight". ... ultra-light, light, medium-light, medium, medium-heavy, heavy, ultra-heavy, or other similar combinations. ...indicator of what types of fishing, species of fish, or size of fish .. best used for.
